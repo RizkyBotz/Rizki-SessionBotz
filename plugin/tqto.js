@@ -25,8 +25,8 @@ Ariffb:
 https://github.com/Ariffb25
 MhankBarBar: 
 https://github.com/MhankBarBar
-KingOfBear: 
-https://github.com/SaipulAnuar
+RizkyXIky: 
+https://github.com/RizkyBotz
 ilham: 
 https://github.com/Ilhamskhzyi
 
